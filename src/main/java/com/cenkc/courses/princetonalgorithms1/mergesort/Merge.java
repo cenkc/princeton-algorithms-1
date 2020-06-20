@@ -52,7 +52,6 @@ public class Merge {
             else                           a[k] = aux[i++];
         }
         assert isSorted(a, lo, hi);         // postcondition : a[lo..hi] sorted
-        System.out.println(Arrays.toString(a));
     }
 
     private static boolean less(Comparable v, Comparable w) {
