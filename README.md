@@ -7,3 +7,5 @@
     * [1.4 Analysis of Algorithms](https://algs4.cs.princeton.edu/14analysis/)
     * [1.3 Stacks And Queues](https://algs4.cs.princeton.edu/13stacks/)
     * [2.1 Elementary Sorts](https://algs4.cs.princeton.edu/21elementary/)
+    * [2.2 Mergesort](https://algs4.cs.princeton.edu/22mergesort/)
+    * [2.3 Quicksort](https://algs4.cs.princeton.edu/23quicksort/)

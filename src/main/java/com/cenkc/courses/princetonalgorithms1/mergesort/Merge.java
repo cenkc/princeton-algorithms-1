@@ -13,7 +13,6 @@ import java.util.Arrays;
 public class Merge {
 
     public static void main(String[] args) {
-        Merge merge = new Merge();
         Character[] a = {'M','E','R','G','E','S','O','R','T','E','X','A','M','P','L','E'};
         sort(a);
         System.out.println(Arrays.toString(a));
