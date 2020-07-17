@@ -11,4 +11,4 @@
     * [2.3 Quicksort](https://algs4.cs.princeton.edu/23quicksort/)
     
 ![GitHub last commit](https://img.shields.io/github/last-commit/cenkc/princeton-algorithms-1)
-[![HitCount](http://hits.dwyl.com/cenkc/princeton-algorithms-1.svg)](http://hits.dwyl.com/cenkc/princeton-algorithms-1)
+[![HitCount](https://hits.dwyl.com/cenkc/princeton-algorithms-1.svg)](https://hits.dwyl.com/cenkc/princeton-algorithms-1)
