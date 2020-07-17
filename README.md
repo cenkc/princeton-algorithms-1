@@ -1,5 +1,6 @@
  
-## Algorithms 1
+## Algorithms 1 ![GitHub last commit](https://img.shields.io/github/last-commit/cenkc/princeton-algorithms-1)
+[![HitCount](https://hits.dwyl.com/cenkc/princeton-algorithms-1.svg)](https://hits.dwyl.com/cenkc/princeton-algorithms-1)
 - [Algorithms, Part I - Coursera offered by Princeton University](https://www.coursera.org/learn/algorithms-part1)
 ### Book
 * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
@@ -9,6 +10,4 @@
     * [2.1 Elementary Sorts](https://algs4.cs.princeton.edu/21elementary/)
     * [2.2 Mergesort](https://algs4.cs.princeton.edu/22mergesort/)
     * [2.3 Quicksort](https://algs4.cs.princeton.edu/23quicksort/)
-    
-![GitHub last commit](https://img.shields.io/github/last-commit/cenkc/princeton-algorithms-1)
-[![HitCount](https://hits.dwyl.com/cenkc/princeton-algorithms-1.svg)](https://hits.dwyl.com/cenkc/princeton-algorithms-1)
+
